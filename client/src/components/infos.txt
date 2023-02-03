@@ -1,0 +1,6 @@
+Axios: Used to fetch data at frontend and make async HTTP requests to REST endpoints.
+       Usually used for CRUD operations, to communicate with the backend.
+       To make API  requests and get response data in return.
+       Promise based library.
+
+       to install: npm i axios

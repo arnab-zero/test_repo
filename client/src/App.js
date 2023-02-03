@@ -25,3 +25,11 @@ function App() {
 }
 
 export default App;
+
+/*
+
+## axios for api req using react
+
+
+
+*/
